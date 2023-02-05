@@ -3,7 +3,7 @@ package com.upskill.java_2;
 public class IfElse2 {
 
 	public static void main(String[] args) {
-			int mark = 66;
+			int mark = 76;
 			if(mark>=90){
 				System.out.println("You have A grade! "); 
 				}
